@@ -2,3 +2,6 @@ pan
 arroz
 aceite
 jabon
+manzana
+banana
+pera
