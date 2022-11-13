@@ -5,3 +5,5 @@ jabon
 manzana
 banana
 pera
+arroz
+fideo
